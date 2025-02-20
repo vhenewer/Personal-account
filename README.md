@@ -1,4 +1,4 @@
-# Personal Account Management in Python
+# Personal Account Management 
 
 ## Description
 This project manages a personal bank account using. It allows for depositing and withdrawing money, tracking transactions, and printing transaction history.
